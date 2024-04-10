@@ -1,0 +1,2 @@
+./TurbSim_x64.exe TurbSimBox_5MW_8mps.inp
+./openfast_x64.exe Main.fst
